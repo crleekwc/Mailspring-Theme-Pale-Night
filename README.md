@@ -2,7 +2,7 @@
 
 The Mailspring Theme Pale Night is a theme for the [Mailspring](http://www.getmailspring.com/) email client, inspired by the Pale Night Material UI theme. I am going through a purple phase right now...
 
-Screenshot coming soon!
+More screenshot coming soon!
 
 <img src="https://raw.githubusercontent.com/crleekwc/Mailspring-Theme-Pale-Night/master/screenshot/mailspring-theme-pale-night.png" />
 
