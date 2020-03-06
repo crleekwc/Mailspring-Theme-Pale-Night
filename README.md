@@ -6,6 +6,12 @@ Screenshot coming soon!
 
 <!--<img src="https://raw.githubusercontent.com/Foundry376/Mailspring-Theme-Starter/master/screenshot/custom-theme.png" />-->
 
+## Installation
+Clone the repository to your computer.
+```
+git clone 
+```
+
 ## Getting Started
 
 Creating a new theme in Mailspring is easy! Here's how you can do it.
