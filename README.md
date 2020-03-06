@@ -4,7 +4,7 @@ The Mailspring Theme Pale Night is a theme for the [Mailspring](http://www.getma
 
 Screenshot coming soon!
 
-<!--<img src="https://raw.githubusercontent.com/Foundry376/Mailspring-Theme-Starter/master/screenshot/custom-theme.png" />-->
+<img src="https://raw.githubusercontent.com/crleekwc/Mailspring-Theme-Pale-Night/master/screenshot/mailspring-theme-pale-night.png" />
 
 ## Installation
 1. Clone the repository to your computer, using the command below.
