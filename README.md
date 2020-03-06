@@ -6,6 +6,8 @@ More screenshot coming soon!
 
 <img src="https://raw.githubusercontent.com/crleekwc/Mailspring-Theme-Pale-Night/master/screenshot/mailspring-theme-pale-night.png" />
 
+Also any feedback would be much appreciated! :)
+
 ## Installation
 1. Clone the repository to your computer, using the command below.
 ```
