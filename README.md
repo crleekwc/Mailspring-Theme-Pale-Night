@@ -1,6 +1,6 @@
 # Mailspring Theme Pale Night
 
-The Mailspring Theme Starter is a basic starting point for creating a theme for
+The Mailspring Theme Pale Night is a theme inspired by the Pale Night Material UI theme. I am going through a purple phase right now...
 the [Mailspring](http://www.getmailspring.com/) email client.
 
 <img src="https://raw.githubusercontent.com/Foundry376/Mailspring-Theme-Starter/master/screenshot/custom-theme.png" />
