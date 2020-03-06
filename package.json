@@ -1,10 +1,10 @@
 {
-  "name": "theme-starter",
-  "title": "Starter Theme",
-  "displayName": "Starter Theme",
+  "name": "pale-night",
+  "title": "Pale Night Theme",
+  "displayName": "Pale Night Theme",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great dark theme to start your own themes.",
+  "description": "A dark theme based off of the Pale Night Material UI theme",
   "license": "GPL-3.0",
   "engines": {
     "mailspring": "*"
