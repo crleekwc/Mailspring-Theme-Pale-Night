@@ -1,4 +1,4 @@
-# Mailspring Theme Starter
+# Mailspring Theme Pale Night
 
 The Mailspring Theme Starter is a basic starting point for creating a theme for
 the [Mailspring](http://www.getmailspring.com/) email client.
